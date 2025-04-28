@@ -3,4 +3,6 @@ This project contains a simple TODO application
 It has the following features -
 - Anyone can create a todo
 - Anyone can see their existing todos
-- Anyone can mark a todo as done
+- Anyone can update todo using update button
+- Anyone can delete todo using delete button
+- Anyone can mark a todo as done using 'mark as done' button  
